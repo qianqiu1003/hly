@@ -1,1 +1,1 @@
-print("qianqiu")
+print("qian")
